@@ -1,0 +1,55 @@
+<style type="text/css">
+	#container
+	{
+
+		width:1000px;
+		height:500px;
+		border:2px solid blue;
+		background-image: url(yellow me.jpg);
+	}
+	#header
+	{
+		width:1000px;
+		height:70px;
+		background-color: lightgrey;
+		font-family: cambria;
+		font-size: 18px;
+
+	}
+	#a
+	{ 
+		font-family:chiller;
+		font-size: 20px;
+		color: purple;
+	}
+	#b
+	{
+		font-family:chiller;
+		font-size: 14px;
+		color: purple;
+	}
+	#menu
+	{
+		width: 70%;
+	}
+
+
+	#content
+	{
+		width:1000px;
+		height:350px;
+		border: 2px solid purple;
+		background-color: lightpink;
+	}
+	
+	}
+	#footer
+	{
+		width:1000px;
+		height:25px;
+		border: 1px solid black;
+		background-color: white;
+
+	}
+
+</style>

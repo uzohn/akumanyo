@@ -1,0 +1,55 @@
+<style type="text/css">
+	#container
+	{
+
+		width:1000px;
+		height:500px;
+		border:2px solid blue;
+	}
+	#header
+	{
+		width:1000px;
+		height:70px;
+		border:1px solid red;
+		background-color: Yellow;
+	}
+	#a
+	{ 
+		font-family: chiller;
+		font-size: 20px;
+		color: purple;
+	}
+	#b
+	{
+		font-family:chiller;
+		font-size: 14px;
+		color: purple;
+	}
+	#content
+	{
+		width:1000px;
+		height:350px;
+	}
+	#sidechick
+	{
+		width:240px;
+		height:345px;
+		border: 2px solid red;
+		
+	}
+	#mainchick
+	{
+		width:750px;
+		height:345px;
+		float: right;
+		border: 2px solid purple;
+		
+	}
+	#footer
+	{
+		width:1000px;
+		height:25px;
+		border: 1px solid black;
+	}
+
+</style>
